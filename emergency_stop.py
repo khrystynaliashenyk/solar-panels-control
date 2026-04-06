@@ -1,1 +1,1 @@
-print('Emergency stop active')
+print('Emergency stop FIXED < 5s')
